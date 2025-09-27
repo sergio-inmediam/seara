@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.env
+.venv/
+.env.local
+node_modules/
+.expo/
+.DS_Store
+.expo-shared/
+.dist/
